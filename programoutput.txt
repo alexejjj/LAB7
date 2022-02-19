@@ -1,0 +1,21 @@
+Type a nominator of the first fraction: 
+2
+Type a denominator of the first fraction: 
+8
+Type a nominator of the second fraction: 
+33
+Type a denominator of the second fraction: 
+12
+The simplest fraction: 1/1
+Your first fraction: 1/4
+Your second fraction: 11/4
+Adding res of 1/4 to 11/4 is : 3/1
+Subtracting res of 1/4 and 11/4 is : 5/-2
+Dividing res of 1/4 by 11/4 is : 1/11
+Suplementation res of 1/4 by 11/4 is : 11/16
+Res of adding the fractions is (two arguments): 3/1
+Res of subtracting the fractions is (two arguments): 5/-2
+Res of generation the fractions is (two arguments): 11/16
+Res of dividing the fractions is (two arguments): 1/11
+
+Process finished with exit code 0
